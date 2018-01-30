@@ -1,4 +1,3 @@
-[![Travis branch](https://img.shields.io/travis/SnowdogApps/magento2-theme-blank-sass/master.svg)](https://travis-ci.org/SnowdogApps/magento2-theme-blank-sass) [![Packagist](https://img.shields.io/packagist/v/snowdog/theme-blank-sass.svg)](https://packagist.org/packages/snowdog/theme-blank-sass) [![Packagist](https://img.shields.io/packagist/dt/snowdog/theme-blank-sass.svg)](https://packagist.org/packages/snowdog/theme-blank-sass)
 # Magento 2 - Alexus - Luke Paoloni
 
 A Magento 2 theme called Alexus.
