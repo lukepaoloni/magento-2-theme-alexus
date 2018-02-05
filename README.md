@@ -3,7 +3,7 @@
 A Magento 2 theme called Alexus.
 
 ## Installation
-1. Create the neccessary folders `cd app/design`
+1. Create the neccessary folders `cd app/design/Zeus`
 2. Clone the theme `git clone https://github.com/lukepaoloni/magento-2-theme-alexus.git Alexus`
 3. Run `bin/magento setup:upgrade && bin/magento setup:static-content:deploy -f` to register theme & deploy static files
 
